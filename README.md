@@ -13,8 +13,8 @@ Course Project 2
 2. read data table
 3. load the label codes key from activity_labels.txt
 4. load the feature key from features.txt
-5. Extracts only the measurements on the mean and standard deviation for each measurement.
-6. load the training and test data sets and retain data columns
+5. load the training and test data sets and retain data columns
+6. Extracts only the measurements on the mean and standard deviation for each measurement.
 7. merge the training and test data sets
 8. replace label codes in the dataset with text labels
 9. reshape data to use label and subject as identifiers
